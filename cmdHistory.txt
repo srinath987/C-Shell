@@ -1,0 +1,20 @@
+bg 0
+jobs
+bg 1915697708
+gedit
+jobs
+gedit
+jobs
+fg 0
+quit
+sleep 100 & ; sleep 100 & ; sleep 100
+jobs
+sleep
+sleep 10
+jobs
+sleep 200
+jobs
+sig 0 18
+jobs
+sleep 10
+bg 1
